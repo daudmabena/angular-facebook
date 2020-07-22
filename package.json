@@ -39,7 +39,7 @@
     "karma-coffee-preprocessor": "~0.1.0",
     "karma-ng-html2js-preprocessor": "~0.1.0",
     "karma-ng-scenario": "~0.1.0",
-    "bower": "~1.2.6",
+    "bower": "~1.8.8",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-jshint": "~0.7.2"
   }
